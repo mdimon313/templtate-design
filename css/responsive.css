@@ -1,0 +1,97 @@
+@media (min-width: 1200px) {
+	
+}
+@media (min-width: 992px) {
+	.contentWrapper h1 {
+		font-size: 2.2em;
+	}
+	.contentWrapper h3 {
+		font-size: 16px;
+	}
+	.introMeta h2 {
+		font-size: 16px;
+	}
+	.secTitle p {
+		font-size: 14px;
+	}
+	.contactWrap p {
+		font-size: 17px;
+	}
+	.aboutMeta h3 {
+		font-size: 18px;
+	}
+}
+@media (min-width: 768px) {
+	.navItem .navList {
+		padding: 2px 12px;
+	}
+	.topContact {
+		padding: 0px 10px;
+	}
+	.contentWrapper h3 {
+		font-size: 13px;
+		margin-bottom: 10px;
+	}
+	.contentWrapper h1 {
+		font-size: 25px;
+		margin-bottom: 2px;
+	}
+	.contentWrapper p {
+		font-size: 14px;
+		margin-bottom: 30px;
+	}
+	.image img {
+		width: 100%;
+	}
+	.imgMeta h6 {
+		padding-bottom: 0px;
+	}
+	.imgMeta p {
+		font-size: 13px;
+		line-height: 20px;
+	}
+	.contactWrap p {
+		font-size: 16px;
+	}
+	.imgBorder img {
+		width: 100%;
+	}
+	.address h4 {
+		font-size: 15px;
+		margin-bottom: 1em;
+	}
+	.address p {
+		font-size: 14px;
+	}
+	.address p i {
+		width: 18px;
+	}
+	.footSocialIcons .iconsWrap a {
+		margin-right: 15px;
+		margin-bottom: 15px;
+	}
+	.footLinks p a {
+		
+		line-height: 20px;
+		padding: 15px 0;
+		font-size: 14px;
+	}
+	.footLink h4 {
+		font-size: 15px;
+		margin-bottom: 1em;
+	}
+	.footSubscribe h4 {
+		font-size: 15px;
+		margin-bottom: 1em;
+	}
+	.footForm p {
+		font-size: 14px;
+	}
+	#subminBtn {
+		font-size: 14px;		
+	}
+	.copyText {
+		color: #ddddddc4;
+		font-size: 13px;
+	}
+}
